@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task Added</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f2f2f2;
+            max-width: 400px;
+            margin: auto;
+            padding: 50px;
+            text-align: center;
+        }
+
+        h2 {
+            color: green;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #5e60ce;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            background: #4a4cb8;
+        }
+    </style>
+</head>
+<body>
+    <h2>✅ Task Added Successfully!</h2>
+    <a href="{% url 'index' %}">← Go Back to Task List</a>
+</body>
+</html>
