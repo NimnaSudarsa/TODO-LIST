@@ -26,11 +26,7 @@ Users can register, log in, add tasks, set due dates, priorities, edit tasks, an
 
 ---
 
-## 📸 Screenshots
 
-| Home Page (Task List) | Add Task Form |
-|-----------------------|---------------|
-| ![Screenshot](screenshots/home.png) | ![Screenshot](screenshots/form.png) |
 
 ---
 
@@ -38,5 +34,5 @@ Users can register, log in, add tasks, set due dates, priorities, edit tasks, an
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/TODOLIST.git
+   git clone https://github.com/NimnaSudarsa/TODO-LIST.git
    cd TODOLIST
